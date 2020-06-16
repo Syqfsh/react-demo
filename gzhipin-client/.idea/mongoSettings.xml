@@ -14,6 +14,17 @@
           </option>
           <option name="userDatabase" value="gzhipin" />
         </ServerConfiguration>
+        <ServerConfiguration>
+          <option name="serverUrls">
+            <list>
+              <option value="localhost:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+          <option name="userDatabase" value="gzhipin" />
+        </ServerConfiguration>
       </list>
     </option>
   </component>

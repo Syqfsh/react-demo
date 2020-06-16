@@ -1,80 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aef524ca-de12-4d58-b103-aeef23e69c87" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/images/头像9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/components/logo/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/components/nav-footer/images/dashen-selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/components/nav-footer/images/dashen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/components/nav-footer/images/laoban-selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/components/nav-footer/images/laoban.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/components/nav-footer/images/message-selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/components/nav-footer/images/message.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/components/nav-footer/images/personal-selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/components/nav-footer/images/personal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/react-zhaopin.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/.idea/mongoSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/.idea/zhaopin-client.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/config-overrides.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/public/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/api/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/api/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/assets/css/index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/components/header-selector/header-selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/components/logo/logo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/components/logo/logo.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/components/nav-footer/nav-footer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/components/not-found/not-found.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/components/user-list/user-list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/containers/dashen-info/dashen-info.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/containers/dashen/dashen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/containers/laoban-info/laoban-info.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/containers/laoban/laoban.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/containers/login/login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/containers/main/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/containers/message/message.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/containers/personal/personal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/containers/register/register.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/redux/action-types.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/redux/actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/redux/reducers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/redux/store.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/src/utils/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gzhipin-client/yarn.lock" />
-    </list>
+    <list default="true" id="aef524ca-de12-4d58-b103-aeef23e69c87" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -119,8 +46,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,7 +58,7 @@
             <path>
               <item name="react-zhaopin" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-zhaopin" type="462c0819:PsiDirectoryNode" />
-              <item name="gzhipin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="gzhipin-client" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -142,7 +69,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gzhipin-server" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunDashboard">
@@ -171,11 +98,12 @@
       <workItem from="1592052389603" duration="1572000" />
       <workItem from="1592319905936" duration="107000" />
       <workItem from="1592320404916" duration="665000" />
+      <workItem from="1592323246144" duration="284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2513000" />
+    <option name="totallyTimeSpent" value="2797000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
